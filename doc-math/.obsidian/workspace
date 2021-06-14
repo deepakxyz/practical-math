@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "7bdbb44801e14bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "085d8cce0ded64eb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "03 Maya/Tools/Grey Exec.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c88159b7b9c40431",
+    "type": "split",
+    "children": [
+      {
+        "id": "281f35fcabbe8229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f8f8a6aee6febaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd8d8fd2a92385df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287
+  },
+  "right": {
+    "id": "595792359d99b55c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4a4081efda1350d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "659cbdb4b98b30cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 Maya/Tools/Grey Exec.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4b0de08cc9bef9e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e5a36f41d65415f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 662,
+    "collapsed": true
+  },
+  "active": "085d8cce0ded64eb",
+  "lastOpenFiles": [
+    "03 Maya/Tools/Grey Exec.md",
+    "03 Maya/Tools/Untitled.md",
+    "03 Maya/PySide2/Maya/Untitled.md",
+    "03 Maya/PySide2/Maya/Maya Open Import Dialogue.md",
+    "00 Houdini/Maya to Houdini Alembic.md",
+    "00 Houdini/01 Vex/01 Vex Master.md",
+    "03 Maya/PySide2/Doc.md",
+    "06 Workflow/Cloth/Cloth In Production.md",
+    "00 Houdini/01 Vex/Create Line SOP.md",
+    "03 Maya/PySide2/Maya/Vim Maya Editor.md"
+  ]
+}
